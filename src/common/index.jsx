@@ -1,4 +1,4 @@
-const backendDomain = "http://localhost:8080"
+const backendDomain = "https://naklizon-backend.onrender.com"
 
 const SummeryApi = {
     SignUp : {
